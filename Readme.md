@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Алексей Симоненко](https://up.htmlacademy.ru/htmlcss/20/user/6).
-* Наставник: `Неизвестно`.
+* Студент: [dez_test](https://up.htmlacademy.ru/htmlcss/20/user/6).
+* Наставник: Not_test_on_own.
 
 ---
 
